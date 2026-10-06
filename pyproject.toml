@@ -1,4 +1,9 @@
 [project]
+
+name = "mcp-server"
+version = "0.1.0"
+dependencies = ["fastmcp"]
+
 name = "mcp-server-remote"
 version = "0.1.0"
 description = "Add your description here"
